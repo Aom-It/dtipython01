@@ -1,5 +1,5 @@
 import sys
-from rich import print
+from rich import print 
 from time import sleep 
 import time
 
@@ -13,7 +13,7 @@ def printLyrics():
         ("I wanna go for a ride",0.068),#6
         ("Hop in the music and",0.07),#7
         ("Rock your body",0.08),#8
-        ("Rock that body",0.069)#9
+        ("Rock that body",0.069),#9
         ("come on, come on",0.035),#10
         ("Rock that body",0.05),#11
         ("(Rock that body)",0.03),#12
